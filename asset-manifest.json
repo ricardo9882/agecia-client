@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb24b12e.chunk.css",
+    "main.js": "/static/js/main.97ef50b2.chunk.js",
+    "main.js.map": "/static/js/main.97ef50b2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.c719dd68.chunk.js": "/static/js/2.c719dd68.chunk.js",
+    "static/js/2.c719dd68.chunk.js.map": "/static/js/2.c719dd68.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d9fd95d1982cd463aff29f083ea9064c.js": "/precache-manifest.d9fd95d1982cd463aff29f083ea9064c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eb24b12e.chunk.css.map": "/static/css/main.eb24b12e.chunk.css.map",
+    "static/media/App.css": "/static/media/banner-kasa.7845dcbd.jpg",
+    "static/media/header-auto.png": "/static/media/header-auto.8cade623.png",
+    "static/media/honda-logo.png": "/static/media/honda-logo.2c9d4ed2.png",
+    "static/media/icon-phone.svg": "/static/media/icon-phone.5abd7de7.svg",
+    "static/media/icon-pointer.svg": "/static/media/icon-pointer.1c107061.svg",
+    "static/media/icon-whatsapp.svg": "/static/media/icon-whatsapp.661aeaa4.svg",
+    "static/media/img-mapa.jpg": "/static/media/img-mapa.26743a77.jpg",
+    "static/media/kasa-logo-hr.svg": "/static/media/kasa-logo-hr.a886fd61.svg",
+    "static/media/kasa-logo.svg": "/static/media/kasa-logo.64876d6e.svg"
+  }
+}
