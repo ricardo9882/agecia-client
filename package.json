@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",
@@ -33,5 +32,8 @@
       "last 1 safari version"
     ],
     "homepage": "https://ricardo9882.github.io/agecia-client"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
